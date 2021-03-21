@@ -1,0 +1,19 @@
+{
+  "timeZone": "Asia/Tokyo",
+  "dependencies": {
+    "libraries": [{
+      "userSymbol": "BatchRequest",
+      "libraryId": "1HLv6tWz0oXFOJHerBTP8HsNmhpRqssijJatC92bv9Ym6HSN69_UuzcDk",
+      "version": "1",
+      "developmentMode": true
+    }, {
+      "userSymbol": "FilesApp",
+      "libraryId": "1dBxqh6gpWqFv4h0M25ALp4bhcs6CoqhiIJ0fUeUjR57bAxIN2PqfkQns",
+      "version": "4",
+      "developmentMode": true
+    }]
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "oauthScopes": ["https://www.googleapis.com/auth/drive", "https://www.googleapis.com/auth/script.external_request"]
+}
